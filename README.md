@@ -1,5 +1,4 @@
 # O3 LiDAR-Camera Calibration
-
 Official implementation of "O3 LiDAR–Camera Calibration: One-Shot, One-Target and Overcoming LiDAR Limitations" (IEEE Sensors).
 
 
